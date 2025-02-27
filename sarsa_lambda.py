@@ -146,10 +146,6 @@ plt.grid(True)
 plt.savefig('comparison.png')
 plt.close()
 
-
-'''
-Reference - Took help from GPT model - "https://chatgpt.com/share/67aa5ee7-b150-800c-ae7c-34e7420125de"
-
 Github repo - "https://github.com/aditya1702/Machine-Learning-and-Data-Science/blob/master/Implementation%20of%20Reinforcement%20Learning%20Algorithms/Tensorflow%20Implementations/Eligibility%20Traces/Tabular%20SARSA(%20%CE%BB%20).ipynb"
 '''
 
