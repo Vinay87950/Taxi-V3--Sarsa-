@@ -1,7 +1,1 @@
-1 - create a virtual env 
-2- pip install gymnasium numpy matplotlib imageio
-3- run the python code "sarsa_lambda.py"
 
-All the code is in the python file "sarsa_lambda.py"
-and the vidoes will be saved in gif format in the folder name video for different lambda values which I have tried [0, 0.7 ,0.8, 0.9, 1.0]
-and in the end I plotted the graph comparision of the average rewards for each lambda value
